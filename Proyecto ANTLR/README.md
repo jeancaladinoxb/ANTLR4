@@ -92,4 +92,4 @@ sin(3.1416/2)
 
 ## Imagen de prueba Python 
 
-![Ejecución C1](Images/P1.png)
+![Ejecución C1](Imagenes/P1.png)
