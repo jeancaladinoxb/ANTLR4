@@ -93,3 +93,7 @@ sin(3.1416/2)
 ## Imagen de prueba Python 
 
 ![Ejecución C1](Imagenes/P1.png)
+
+## Imagen de prueba Java
+
+![Ejecución C1](Imagenes/J1.png)
