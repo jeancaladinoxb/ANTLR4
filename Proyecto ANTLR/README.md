@@ -2,7 +2,7 @@
 
 Este proyecto implementa una calculadora interactiva capaz de reconocer expresiones aritméticas y algunas funciones matemáticas (seno, coseno, tangente, logaritmos, raíz cuadrada, factorial, etc.) utilizando ANTLR4.
 
-El proyecto está basado en el libro "The Definitive ANTLR 4 Reference" de Terence Parr, creador de ANTLR. La idea principal es mostrar cómo un lenguaje pequeño (en este caso, expresiones matemáticas) puede definirse con una gramática y ejecutarse mediante el patrón Visitor.
+El proyecto está basado en el libro The Definitive ANTLR 4 Reference, creador de ANTLR. La idea principal es mostrar cómo un lenguaje pequeño en este caso una calculadora que puede definirse con una gramática y ejecutarse mediante el patrón Visitor.
 
 ## Características
 
