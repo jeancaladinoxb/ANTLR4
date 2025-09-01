@@ -89,3 +89,7 @@ Donde input.txt contiene las expresiones, por ejemplo:
 5!
 sqrt(16)
 sin(3.1416/2)
+
+## Imagen de prueba Python 
+
+![Ejecución C1](images/P1.png)
